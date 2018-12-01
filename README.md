@@ -15,4 +15,4 @@ Download Skymonitor app here [SkyMonitor](https://play.google.com/store/apps/det
 
 **Disclaimer:-** Please note that this is not an official [Skycoin](https://www.skycoin.net) project. If you have issues or questions - please do not bother the Skycoin or Skywire teams - raise any issues or feature requests in GitHub or you can directly contact me to the developer email provided in Google Play store. Also note that this is not my job - I am doing this to give my contributions to the project and will endeavor to get back to you and resolve issues as soon as I can. Please bare with me if the issue you raised took more time than you think to get fixed.
 
-*Like my work and support it?*                                                                                            Skycoin :- ZkRJWndQPAcUfXw2i1LRisBmLN7QV5Dwqs 
+Like my work and support it?<br />Skycoin :- ZkRJWndQPAcUfXw2i1LRisBmLN7QV5Dwqs
