@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <FrameLayout
+        android:id="@+id/list_child_item"
+        android:layout_width="fill_parent"
+        android:layout_height="30dip" >
+
+        <TextView
+            android:id="@+id/nodepublickey"
+            android:layout_width="wrap_content"
+            android:layout_height="45dip"
+            android:lines="2"
+            android:textSize="13dip"
+            android:visibility="visible"
+            android:textIsSelectable="true"
+            android:textColor="@color/TextColor" 
+            android:layout_marginLeft="27dp" />
+
+        <CheckBox
+            android:id="@+id/statusbox"
+            android:layout_width="16dip"
+            android:layout_height="14dip"
+            android:layout_gravity="right|bottom"
+            android:layout_marginTop="5dip"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/keyNumber"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:text=""
+            android:textColor="@color/TextColor"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </FrameLayout>
+
+</FrameLayout>

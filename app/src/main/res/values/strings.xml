@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SkyMonitor</string>
+    <string name="action_settings">Settings</string>
+    <color name="skyMonitorcolor">#b3d2f4</color>
+    <color name="TextColor">#242a31</color>
+    <color name="EditTextColor">#2e4969</color>
+    <color name="HintTextColor">#abaeaa</color>
+
+</resources>

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Nov 30 02:03:01 CET 2018
+0.baseType=DIRECTORY
+0.base=/Users/ratnaji/StudioProjects/SkyMonitor/app/build/intermediates/transforms/dexMerger/release/0
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,4 @@
+#Sat Dec 01 12:33:57 CET 2018
+base.0=/Users/ratnaji/StudioProjects/SkyMonitor/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
